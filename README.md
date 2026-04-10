@@ -1,6 +1,3 @@
-Harika detaylar. Bu özellikler projenin sadece basit bir kayıt defteri değil, aynı zamanda bir iş mantığına (Business Logic) sahip olduğunu gösteriyor. Özellikle "Cezalı Üye" ve "En Çok Alınan Kitaplar" gibi istatistiksel kısımlar, bir iş görüşmesinde projenin değerini artıran unsurlardır.
-
-İşte bu detaylara göre profesyonelce hazırlanmış, GitHub README.md içeriği:
 
 📚 Library Management & Tracking System
 Bu proje, bir kütüphanenin günlük işleyişini dijitalleştirmek, üye takibini yapmak ve kitap ödünç verme süreçlerini yönetmek amacıyla geliştirilmiş kapsamlı bir otomasyon sistemidir.
