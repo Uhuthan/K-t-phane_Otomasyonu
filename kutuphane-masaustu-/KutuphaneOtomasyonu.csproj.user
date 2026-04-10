@@ -1,0 +1,30 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<Project ToolsVersion="Current" xmlns="http://schemas.microsoft.com/developer/msbuild/2003">
+  <PropertyGroup />
+  <ItemGroup>
+    <Compile Update="Forms\AnaForm.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Update="Forms\KitapEkleForm.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Update="Forms\KitaplarForm.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Update="Forms\OduncIslemleriForm.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Update="Forms\RaporlarForm.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Update="Forms\UyeEkleForm.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Update="Forms\UyelerForm.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Update="Forms\YeniOduncForm.cs">
+      <SubType>Form</SubType>
+    </Compile>
+  </ItemGroup>
+</Project>
